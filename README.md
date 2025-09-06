@@ -1,5 +1,5 @@
 # Gram-Panchayat-Management-System
-•  Built a full-stack GPMS using Node.js, React.js, and PostgreSQL for managing land records, welfare schemes, and citizen data
+•  Built a full-stack GPMS using Django,HTML,CSS and PostgreSQL for managing land records, welfare schemes, and citizen data
 
 •  Implemented role-based access control for citizens, employees, monitors, and administrators to ensure secure data handling
 
